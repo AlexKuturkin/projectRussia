@@ -1,5 +1,3 @@
-Добрый день!
+project Russia
 
 Одностраничный сайт с адаптивной вёрсткой.
-
-Ссылка: https://alexkuturkin.github.io/projectRussia/
